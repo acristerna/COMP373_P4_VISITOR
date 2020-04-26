@@ -18,7 +18,7 @@ Before implementing the Visitor pattern, the problem that the program would have
 
 With the Visitor pattern, the program examplifies the Open Closed Principal and allows for easier modifications and additions. It makes sure that you can "define a new operation without changing the classes of the elements on which it operates”.
 
-![](UML%20Diagram/Observer.png)
+![](Visitor.png)
 
 ## Applications Used 
 
