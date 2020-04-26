@@ -23,7 +23,7 @@ With the Visitor pattern, the program examplifies the Open Closed Principal and 
 
 ## Applications Used 
 
-* Draw.IO (ULM Model)
+* Draw.IO (UML Model)
 * Eclipse IDE For Java 
 
 ## Credit 
