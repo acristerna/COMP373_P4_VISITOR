@@ -8,7 +8,7 @@ For this real-world example of the Visitor pattern, we used a simple implementat
 
 ## How To Run the Code
 
-Clone the repository to your own development environment and run the Junit test (in Test folder). When run, the tests are successful and the console shows the testing of the mail clients per environment and operation system. Junit 5 has been added to the repo but if the tests are not successful, then you need add it as a dependancy. 
+Clone the repository to your own development environment and run the Junit test (in Test folder). When run, the tests are successful and the console shows the testing of the mail clients per environment and operation system. Junit 5 has been added to the repo but if the tests are not successful, then you need add it as a dependency and build path. 
 
 ## What Is The Problem Identified In This Project? 
 
