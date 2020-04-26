@@ -5,9 +5,6 @@ import Element.ConcreteElement.OutlookMailClient;
 import Element.ConcreteElement.ThunderbirdMailClient;
 import Visitor.MailClientVisitor;
 
-// import guru.springframework.gof.visitor.structure.SquirrelMailClient;
-//import guru.springframework.gof.visitor.structure.ZimbraMailClient;
-
 public class WindowsMailClientVisitor implements MailClientVisitor{
     @Override
     public void visit(OutlookMailClient mailClient) {
